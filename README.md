@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Marc — Exploring AI, Cloud Engineering, Cybersecurity, Coding and all things tech.
+## 👋 Hi, I'm Marc — Exploring AI, Cloud Engineering, Cybersecurity, Coding and all things Tech.
 
 #🚀 Transitioning into AI, Cloud Engineering, and Cybersecurity  
 #📚 Continuously learning through labs, coding, and technical training  
