@@ -1,5 +1,9 @@
 ## 👋 Hi, I'm Marc — Exploring AI, Cloud Engineering, Cybersecurity, Coding and all things tech.
 
+#🚀 Transitioning into AI, Cloud Engineering, and Cybersecurity  
+#📚 Continuously learning through labs, coding, and technical training  
+#🔐 Focused on building secure, scalable cloud solutions
+
 <!--
 **Archinect007/Archinect007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
