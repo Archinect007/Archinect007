@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Marc — Exploring AI, Cloud Engineering, Cybersecurity, Coding and all things tech.
 
 <!--
 **Archinect007/Archinect007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
