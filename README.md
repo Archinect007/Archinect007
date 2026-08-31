@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Marc — 🚀 Building skills in AI, Cloud Engineering, Secure Systems, and Modern Technologies.
+## 👋 Hi, I'm Marc — 🚀 BIM Specialist, Building skills in AI, Cloud Engineering, Secure Systems, and Modern Technologies.
 
 #🚀 Transitioning into AI and Cloud Engineering  
 #📚 Hands-on learning through labs, coding, and technical training  
